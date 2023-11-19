@@ -13,5 +13,14 @@ Machine Leanrning Model 1 with original data:
 * Accuracy: The model is very accurate, correctly classifying 99% of cases.
 * Precision for healthy loans (0): Excellent at identifying true positives with very few mistakes.
 * Precision for high-risk loans (1): Moderately effective in spotting high-risk loans with some errors.
-* Recall for healthy loans (0): Correctly identifies nearly all healthy loans with very few misses.
+* Recall for healthy loans (0): Correctly identifies nearly all healthy loans with little misses.
 * Recall for high-risk loans (1): Effective at identifying high-risk loans with some misses.
+
+
+Machine Learning Model 2 with Resampled Data:
+
+* Accuracy: The model is also very accurate, correctly classifying 94% of cases.
+* Precision for healthy loans (0): Moderatley effective at identifying true positives with very few mistakes.
+* Precision for high-risk loans (1): Very effective in spotting high-risk loans with very few mistakes.
+* Recall for healthy loans (0): Correctly identifies nearly all healthy loans with very few misses.
+* Recall for high-risk loans (1): Very effective at identifying high-risk loans with very few misses.
