@@ -23,4 +23,9 @@ Machine Learning Model 2 with Resampled Data:
 * Precision for healthy loans (0): Moderatley effective at identifying true positives with very few mistakes.
 * Precision for high-risk loans (1): Very effective in spotting high-risk loans with very few mistakes.
 * Recall for healthy loans (0): Correctly identifies nearly all healthy loans with very few misses.
-* Recall for high-risk loans (1): Very effective at identifying high-risk loans with very few misses.
+* Recall for high-risk loans (1): Very effective at identifying high-risk loans with very few misses.\
+
+### Summary
+
+Module 2 outperforms Module 1 trained with original data, particularly with high-risk(1) loans.
+This would be benefiical for fianicial institutions to reduce risks and loss. 
