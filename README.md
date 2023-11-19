@@ -25,7 +25,7 @@ Machine Learning Model 2 with Resampled Data:
 * Recall for healthy loans (0): Correctly identifies nearly all healthy loans with very few misses.
 * Recall for high-risk loans (1): Very effective at identifying high-risk loans with very few misses.\
 
-### Summary
+## Summary
 
 Module 2 outperforms Module 1 trained with original data, particularly with high-risk(1) loans.
 This would be benefiical for fianicial institutions to reduce risks and loss. 
