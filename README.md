@@ -1,4 +1,4 @@
-#Overview of the Analysis
+# Overview of the Analysis
 
 The goal of this study is to see how well two computer models can predict whether a loan is risky or not by looking at financial information. I used data about loan size, interest rates, borrower income, and other factors in order to determine if a loan is safe (0) or risky (1).
 
