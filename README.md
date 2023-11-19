@@ -6,7 +6,7 @@ To begin, our data is divided into two parts for training and testing. I made on
 
 * two methods in this study: LogisticRegression and RandomOverSampler.
 
-# Results
+## Results
 
 Machine Leanrning Model 1 with original data:
 
