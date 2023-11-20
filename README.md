@@ -8,22 +8,17 @@ The data is divided into two parts for training and testing. I made one model wi
 
 Machine Leanrning Model 1 with original data:
 
-* Accuracy: The model is very accurate, correctly classifying 99% of cases.
-* Precision for healthy loans (0): Excellent at identifying true positives with very few mistakes.
-* Precision for high-risk loans (1): Moderately effective in spotting high-risk loans with some errors.
-* Recall for healthy loans (0): Correctly identifies nearly all healthy loans with little misses.
-* Recall for high-risk loans (1): Effective at identifying high-risk loans with some misses.
-
+Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
+Accuracy: 94% balanced accuracy score
+Recall: 100% recall for healthy loans, 89% recall for high-risk loans
 
 Machine Learning Model 2 with Resampled Data:
 
-* Accuracy: The model is also very accurate, correctly classifying 94% of cases.
-* Precision for healthy loans (0): Moderatley effective at identifying true positives with very few mistakes.
-* Precision for high-risk loans (1): Very effective in spotting high-risk loans with very few mistakes.
-* Recall for healthy loans (0): Correctly identifies nearly all healthy loans with very few misses.
-* Recall for high-risk loans (1): Very effective at identifying high-risk loans with very few misses.\
+Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
+Accuracy: 99% balanced accuracy score
+Recall: 100% recall for healthy loans, 100% recall for high-risk loans
 
 ## Summary
 
-Module 2 outperforms Module 1 trained with original data, particularly with high-risk(1) loans, therefore I recommened using Model 2.
+Module 2 with balanced resampled data outperforms Module 1, particularly with high-risk(1) loans, therefore I recommened using Model 2.
 This would be benefiical for fianicial institutions to reduce risks and loss when trying to determine approval or rejection for loans. 
