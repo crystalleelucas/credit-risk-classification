@@ -6,17 +6,17 @@ The data is divided into two parts for training and testing. I made one model wi
 
 ## Results
 
-* Machine Leanrning Model 1 with original data:
+Machine Leanrning Model 1 with original data:
 
-Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
-Accuracy: 94% balanced accuracy score
-Recall: 100% recall for healthy loans, 89% recall for high-risk loans
+* Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
+* Accuracy: 94% balanced accuracy score
+* Recall: 100% recall for healthy loans, 89% recall for high-risk loans
 
-* Machine Learning Model 2 with Resampled Data:
+Machine Learning Model 2 with Resampled Data:
 
-Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
-Accuracy: 99% balanced accuracy score
-Recall: 100% recall for healthy loans, 100% recall for high-risk loans
+* Precision: 100% accuracy predicting healthy loans, 87% accuracy predicting high-risk loans
+* Accuracy: 99% balanced accuracy score
+* Recall: 100% recall for healthy loans, 100% recall for high-risk loans
 
 ## Summary
 
