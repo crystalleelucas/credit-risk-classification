@@ -25,5 +25,5 @@ Machine Learning Model 2 with Resampled Data:
 
 ## Summary
 
-Module 2 outperforms Module 1 trained with original data, particularly with high-risk(1) loans.
-This would be benefiical for fianicial institutions to reduce risks and loss. 
+Module 2 outperforms Module 1 trained with original data, particularly with high-risk(1) loans, therefore I recommened using Model 2.
+This would be benefiical for fianicial institutions to reduce risks and loss when trying to determine approval or rejection for loans. 
